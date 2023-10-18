@@ -7,8 +7,6 @@ namespace WindowsFormsAppF
         public Form1()
         {
             InitializeComponent();
-
-            this.Text = "Git";
         }
     }
 }
